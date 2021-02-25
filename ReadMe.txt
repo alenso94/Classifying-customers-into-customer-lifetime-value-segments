@@ -1,4 +1,4 @@
-The supporting material includes
-
-1. The code(CLVPrediction_190552693.pynb file)
-2. The dataset - online_retail_II
+The scope of this project is to:
+(a) Perform LRFM analysis and calculate CLV of the customers.
+(b) Develop machine learning models that will classify customers into CLV Segments based on their LRFM values.
+(c) Carry out a comparative study of the implemented machine learning models.
